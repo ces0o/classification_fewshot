@@ -7,9 +7,9 @@
 * 최대 accuracy: 95.14% , 최소 loss: 0.1515
 
 ## densenet_201
-<img src="https://github.com/ces0o/image_/blob/1ec454cdf4913eda6000364267ff79ec88e57804/qq.png" width="400" height="200">  
+<img src="https://github.com/ces0o/image_/blob/8110211f9582870ebb3951334d9cf4f9d80d2af6/18.2.png" width="400" height="200">  
 
-<img src="" width="900" height="300">  
+<img src="https://github.com/ces0o/image_/blob/9edda1c31c1327a190a746a4655ecf3b6286ce41/RRRRR.png" width="900" height="300">  
 
 * 최대 accuracy: , 최소 loss:
 
@@ -21,7 +21,7 @@
 * 최대 accuracy: 93.75%, 최소 loss: 0.2658
 
 ## resnet_101
-<img src="" width="400" height="100"> 
+<img src="https://github.com/ces0o/image_/blob/0cf95947e26942d0c7733f776b624bd7c65828b2/101.png" width="400" height="100"> 
 
 <img src="" width="900" height="300">  
 
