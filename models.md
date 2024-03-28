@@ -20,6 +20,13 @@
 
 * 최대 accuracy: 93.75%, 최소 loss: 0.2658
 
+## resnet_101
+<img src="" width="400" height="100"> 
+
+<img src="" width="900" height="300">  
+
+* 최대 accuracy: 93.75%, 최소 loss: 0.2658
+
 ## EfficientNetV2-L
 <img src="" width="900" height="300">  
 
