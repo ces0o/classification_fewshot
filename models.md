@@ -31,7 +31,7 @@
 ## EfficientNetV2-L
 <img src="https://github.com/ces0o/image_/blob/c277f42bfa39bc9a9a3a43e4bb3ce5dbaf08909d/eff.png" width="400" height="100"> 
 
-<img src="" width="900" height="300">  
+<img src="https://github.com/ces0o/image_/blob/21bf0dd71a5527390d22910bd5b2242b6ef4f104/effrres.png" width="900" height="300">  
 
 * 최대 accuracy: , 최소 loss: (pretrain = false)
 
