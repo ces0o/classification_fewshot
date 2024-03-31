@@ -12,7 +12,7 @@
 
 <img src="https://github.com/ces0o/image_/blob/9edda1c31c1327a190a746a4655ecf3b6286ce41/RRRRR.png" width="900" height="300">  
 
-* 최대 accuracy: , 최소 loss:
+* 최대 accuracy:93% , 최소 loss:0.16
 
 ## resnet_18
 <img src="https://github.com/ces0o/image_/blob/add7f64cf01b33bafbba4ed825cc1ffd35dd26f4/resnnnnn.png" width="400" height="100">  
@@ -34,6 +34,9 @@
 <img src="https://github.com/ces0o/image_/blob/21bf0dd71a5527390d22910bd5b2242b6ef4f104/effrres.png" width="900" height="300">  
 
 * 최대 accuracy: , 최소 loss: (pretrain = false)
+
+## densenet_121 (N=4, k=10)
+<img src="https://github.com/ces0o/image_/blob/97fa7e3b22cc62a3b4a0f3416af498fa433f59fd/10.png" width="900" height="300">  
 
 ## densenet vs resnet
 ### Feature Reuse 및 정보 유지  
