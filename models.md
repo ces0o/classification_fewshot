@@ -33,16 +33,31 @@
 
 <img src="https://github.com/ces0o/image_/blob/21bf0dd71a5527390d22910bd5b2242b6ef4f104/effrres.png" width="900" height="300">  
 
-* 최대 accuracy: , 최소 loss: (pretrain = false)
+* 최대 accuracy: 56% , 최소 loss: 0.87
+
+## densenet_121 (N=4, k=3)
+<img src="https://github.com/ces0o/image_/blob/985c3823339bc84ade46c33f10c72589802c3ed4/3.png" width="900" height="300">  
+
+* 최대 accuracy: 93% , 최소 loss: 0.5
 
 ## densenet_121 (N=4, k=10)
 <img src="https://github.com/ces0o/image_/blob/97fa7e3b22cc62a3b4a0f3416af498fa433f59fd/10.png" width="900" height="300">  
 
-## densenet vs resnet
-### Feature Reuse 및 정보 유지  
-* DenseNet은 밀집 연결(dense connectivity)을 사용하여 각 레이어에서 이전 레이어의 출력을 입력으로 받음
-  * 특히 임신테스트기에서 crop된 이미지의 경우 색의 차이가 미미하게 나타나기 때문에, 이러한 밀집 연결은 특징을 재사용하는 데 도움을 줄 수 있음
-* ResNet은 잔차 연결(residual connection)을 사용하므로 각 레이어는 이전 레이어의 잔차만을 사용하게 됨
-   * densenet보다 정보 손실이 심함
+* 최대 accuracy: 92% , 최소 loss: 0.25
+
+## densenet_121 (N=4, k=15)
+<img src="https://github.com/ces0o/image_/blob/985c3823339bc84ade46c33f10c72589802c3ed4/15.png" width="900" height="300">  
+
+* 최대 accuracy: 90% , 최소 loss: 0.34
+
+## densenet_121 (lab)
+<img src="https://github.com/ces0o/image_/blob/432b35234a877ec940be1e0d3f7aeb6bf15e3e9c/lab.png" width="900" height="300">  
+
+* 최대 accuracy: 97.5% , 최소 loss: 0.09
+
+## densenet_121 (lab+fcm)
+<img src="https://github.com/ces0o/image_/blob/432b35234a877ec940be1e0d3f7aeb6bf15e3e9c/lab%2Bfcm.png" width="900" height="300">  
+
+* 최대 accuracy: 93%
  
 
