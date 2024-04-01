@@ -59,5 +59,10 @@
 <img src="https://github.com/ces0o/image_/blob/432b35234a877ec940be1e0d3f7aeb6bf15e3e9c/lab%2Bfcm.png" width="900" height="300">  
 
 * 최대 accuracy: 93%
+
+## densenet_121 (lab+gamma)
+<img src="https://github.com/ces0o/image_/blob/e0df4a2db6284eec131406486f49f5f42892516f/bb.png" width="900" height="300">  
+
+* 최대 accuracy: 94%
  
 
